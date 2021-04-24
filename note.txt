@@ -15,3 +15,8 @@ Now our word will continue locally
 remote repostory so we PUSHED local commits to 
 remote repostory using puch origin button
 4. observe it has been added in your repostory under GITHUB.com
+
+Hot to save after adding some text in sublime
+on mac command + s
+on windows control + s
+or click on file --> Save
